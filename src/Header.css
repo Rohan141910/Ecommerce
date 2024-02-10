@@ -1,0 +1,51 @@
+ .header1  :hover{
+   color:red
+ }
+.header1{
+    background-color:yellow;
+    font-weight: 600;
+    color: black;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+    display: flex;
+text-align: justify;
+    
+    
+}
+.header1 img{
+    border-radius: 50%;
+}
+.header1 li{
+    display: inline;
+    margin-left: 10px;
+    color: rgb(rgb(255, 0, 115));
+    
+    
+}
+.header1 button{
+    font-size: large;
+    color: red;
+    margin-left: 600px;
+    background-color: rgb(0, 247, 255);
+    
+}
+
+.header1 a{
+    font-size: 25px;
+    margin-left: 30px; 
+}
+.header2
+{
+    color: maroon;
+    font-size: 85px;
+    margin: 15px;
+}
+.header2 li{
+    text-decoration:none;
+    font-weight: bold;
+}
+.header1 li :hover{
+    color: red;
+}
